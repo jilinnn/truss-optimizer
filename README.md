@@ -1,6 +1,6 @@
 # Truss Optimizer
 
-A truss optimization script written in MATLAB for EK301: Enginnering Mechanics I @ Boston University.
+A truss optimization script written in MATLAB for the truss design final project of a statics class.
 
 ## Description
 
