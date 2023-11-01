@@ -128,7 +128,7 @@ cost = 10 * joints + sum(lengths);
 % formatted output
 format short
 units = "oz";
-disp("\% EK301, Section A1, Group 1: Aadarsh A., Peter Z., Jilin Z. 4/7/2023.")
+disp("\% [REDACTED for privacy], Jilin Z. 4/7/2023.")
 fprintf("Load: %i oz\n", appliedLoad)
 fprintf("Member forces in %s: \n",units)
 for ii = 1:members
