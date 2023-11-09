@@ -1,4 +1,4 @@
-# Truss Optimizer
+# Truss-Optimizer
 
 ## Description
 
